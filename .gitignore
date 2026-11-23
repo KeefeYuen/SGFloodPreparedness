@@ -1,0 +1,16 @@
+node_modules/
+.expo/
+dist/
+web-build/
+npm-debug.log*
+.env
+.env.*
+!.env.example
+
+# Build outputs
+android/app/build/
+ios/build/
+
+# OS files
+.DS_Store
+Thumbs.db
